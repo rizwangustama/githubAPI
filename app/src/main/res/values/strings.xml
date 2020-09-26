@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">dicodingkusub2</string>
+    <string name="nama_user">Nama User</string>
+    <string name="username">Username</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="nulled">NULL</string>
+    <string name="location">Location</string>
+    <string name="work">Work</string>
+    <string name="repositories">Repositories</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="work_at">Work at</string>
+    <string name="separator">Separator</string>
+</resources>
